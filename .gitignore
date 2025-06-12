@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+.installed.cfg
+*.egg
+dist/
+build/
+wheels/
+*.whl
+
+# AWS Lambda
+*.zip
+package/
+.serverless/
+
+# macOS
+.DS_Store
